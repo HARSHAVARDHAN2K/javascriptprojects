@@ -1,0 +1,13 @@
+*{
+    margin: 0 auto;
+}
+.heading{
+    text-align: center;
+    font-size: 4vw;
+    font-weight: bolder;
+    margin-bottom: 5vh;
+    margin-top: 20vh;
+}
+.button{
+    margin-left: 44vw;
+}

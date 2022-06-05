@@ -1,0 +1,13 @@
+*{
+    margin: 0 auto;
+}
+.container{
+    background-image: url('./david-martin-6NpYOFB3VCI-unsplash.jpg');
+	position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+    height: 80vh;
+    margin-top: 10vh;
+    margin-left: 20vw;
+}
+ 
